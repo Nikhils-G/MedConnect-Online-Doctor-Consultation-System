@@ -1,5 +1,5 @@
 
-# 🩺 MedConnect – Java Full Stack Doctor Consultation System ->medconnect.vercel.app
+# 🩺 MedConnect – Java Full Stack Doctor Consultation System ->     https://medconnect.vercel.app/
 
 **MedConnect** is a full-stack web application for online doctor consultations, built using **Spring Boot** and **Vanilla HTML/CSS/JS**. It supports patient registration, doctor login, appointment booking, and prescription viewing.
 
